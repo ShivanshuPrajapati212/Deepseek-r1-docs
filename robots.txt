@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://docs.deepseek.ai/sitemap.xml
+Sitemap: https://deepseek-docs.vercel.app/sitemap.xml
